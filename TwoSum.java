@@ -21,5 +21,6 @@ public class TwoSum{
         int target=6;
         Solution obj=new Solution();
         obj.twoSum(nums, target);
+        System.out.println("hello");
     }
 }
