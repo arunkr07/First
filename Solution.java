@@ -23,7 +23,7 @@ class Solution {
         System.out.println("New length of the array: " + newLength);
         System.out.print("Modified array: ");
         for (int i = 0; i < newLength; i++) {
-            System.out.print(nums[i] + " ");
+            System.out.print(nums[i] + "  ");
         }
     }
 }
